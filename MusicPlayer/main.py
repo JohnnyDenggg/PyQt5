@@ -5,10 +5,6 @@ import json
 from PyQt5 import QtCore,QtGui,QtWidgets,QtMultimedia
 import sys
 import qtawesome
-from pygame import mixer
-import os
-import playsound
-import time
 
 
 class MainUi(QtWidgets.QMainWindow):

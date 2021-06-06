@@ -18,7 +18,7 @@ Style = '''
         QCheckBox
         {
         margin-left:13px;
-        }
+        }ew
         QHeaderView     
         {
         border: none;
